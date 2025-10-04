@@ -4,9 +4,10 @@ import { Header } from '../components/header';
 
 export const metadata = {
     title: {
-        template: '%s | Netlify',
-        default: 'Netlify Starter'
-    }
+        template: '%s | NoarFruit',
+        default: 'NoarFruit - Coming Soon'
+    },
+    description: 'NoarFruit website is currently under construction. Stay tuned for something amazing!'
 };
 
 export default function RootLayout({ children }) {
